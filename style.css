@@ -1,0 +1,50 @@
+body {
+    font-family: "Lato", sans-serif;
+  }
+  .myLogo {
+    clear: right;
+  }
+  .myLogo h3 {
+    color: blue;
+    font-size: 20px;
+    margin-left: 30px;
+  }
+  .mainPage {
+    font-size: 60px;
+    font-family: Arial;
+    margin-left: 30px;
+    color: #344563;
+  }
+  
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
+  span {
+    float: right;
+    color: rgb(39,202,250);
+    margin-top: -3rem;
+    margin-right: 30px;
+  }
+  .aboutMe {
+    margin-left: 30px;
+    color: #344563;
+  }
+  footer {
+    margin-left: 30px;
+  }
+  footer p {
+    color: rgb(39,202,250);
+    margin-top: 30px;
+    font-size: 25px;
+  }
+  footer img {
+    margin: 30px;
+    cursor: pointer;
+  }
+  .linkedin {
+    width: 20px;
+    height: 20px;
+  }
+  
